@@ -1,2 +1,1 @@
-# Sobek
-Just for fun
+Hello world. It is I
